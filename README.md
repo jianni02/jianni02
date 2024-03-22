@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jianni! <br/><a href="https://github.com/jianni02">Aspiring Cybersecurity Analyst</a>, <a href="https://www.linkedin.com/in/jianniaponte/">Rising Graduate </a>
+<h1>Hi, I'm Jianni! <br/><a href="https://github.com/jianni02">Aspiring Cybersecurity Analyst</a> | <a href="https://www.linkedin.com/in/jianniaponte/">Dedicated Learner</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
