@@ -4,6 +4,8 @@
 
 <span>&#8226;</span> [Active Directory Home Lab](https://github.com/jianni02/ActiveDirectoryLab/blob/main/README.md)
 
+<span>&#8226;</span> [Vulnerability Scans Lab](https://github.com/jianni02/VulnerabilityScanner)
+
 <h2>Related Experience:</h2>
 <span>&#8226;</span> UCF Cybersecurity Professional Certificate Program Student
 
