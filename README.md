@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jianni! <br/><a href="https://github.com/jianni02">Aspiring Cybersecurity Analyst</a> | <a href="https://www.linkedin.com/in/jianniaponte/">Dedicated Learner</a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>My Projects:</h2>
 
 <span>&#8226;</span> [Applying SQL Filters](https://github.com/jianni02/ApplyingSQLFilters)
 
